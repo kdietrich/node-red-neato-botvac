@@ -16,7 +16,7 @@
   },
   "author": "Th. Krauss",
   "dependencies": {
-    "node-botvac": "^0.4.0"
+    "node-botvac": "https://github.com/kdietrich/node-botvac"
   },
   "keywords": [ "node-red", "neato", "botvac" ],
   "license": "MIT",
